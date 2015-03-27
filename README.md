@@ -1,5 +1,5 @@
 # The Wawa Addon
-Replaced all instances of the word 'Water' with 'Wawa'.
+Replaces all instances of the word 'Water' with 'Wawa'.
 
 ## Chrome
 Install at the [chrome web store](https://chrome.google.com/webstore/detail/the-wawa-addon/pdnhejhkiioapdknhnnjgjobacohdfic)
