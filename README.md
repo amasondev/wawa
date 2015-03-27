@@ -5,4 +5,7 @@ Install at the [chrome web store](https://chrome.google.com/webstore/detail/the-
 
 
 ## Firefox
-Install the [xpi file here](/raw/master/Firefox/wawa.xpi)
+Download the [xpi file here](/Firefox/wawa.xpi?raw=true)
+- Open FireFox.
+- Click *Add-ons* from the *Tools* menu and select the *Extensions* tab.
+- Drag-and-drop the XPI file onto the page.
