@@ -5,4 +5,4 @@ Install at the [chrome web store](https://chrome.google.com/webstore/detail/the-
 
 
 ## Firefox
-Install the [xpi file here](/Firefox/wawa.xpi)
+Install the [xpi file here](/raw/master/Firefox/wawa.xpi)
