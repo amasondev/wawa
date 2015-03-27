@@ -1,0 +1,3 @@
+content	wawa	chrome/content/	contentaccessible=yes
+
+overlay	chrome://browser/content/browser.xul	chrome://wawa/content/main.xul
