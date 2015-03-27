@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "The Wawa Addon",
+	"version": "1.0",
+	"description": "Replaces the text 'water' with 'wawa'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
